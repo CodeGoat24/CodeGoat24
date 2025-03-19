@@ -3,7 +3,7 @@
 
 Hi! I'm **Yibin Wang**.
 
-I'm current a **direct PhD candidate** (2024~2029) at Fudan University in Shanghai.
+I'm currently a **direct PhD student** (2024~2029) at Fudan University in Shanghai.
 
 I am now focused on computer vision, generative AI, and visual-language models.
 
